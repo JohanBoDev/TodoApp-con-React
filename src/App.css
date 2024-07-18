@@ -15,7 +15,10 @@ body{
   width: 500px;
   max-height: auto;
   margin: 0 auto;
-  background-color: #94b8e2;
+  background-image: url('fondo.webp');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
   backdrop-filter: blur(5px);
   padding: 10px;
   border-radius: 15px;
